@@ -24,8 +24,8 @@ $ make clean
 # Run
 
 ```
-$ ./server
-$ ./client
+$ ./chatroom_server
+$ ./chatroom_client
 ```
 
 # Technology
