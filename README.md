@@ -12,7 +12,7 @@ A C++ Live Chatroom (version 0.2.0)
 
 ## Environment
 * OS: Ubuntu Linux release 18.04
-* Compiler: G++ 7.5.0
+* Compiler: g++ 7.5.0
 
 # Build
 
